@@ -33,3 +33,8 @@ Python for data ingestion and transformation
 MSSQL for relational data storage and modeling
 Analytics & Visualization
 Power BI for dashboarding and interactive analysis
+
+
+Dashboard Can be accessed here
+https://drive.google.com/file/d/1dFPPcdfIaRGEBQTgHiSPBVkVpi93rKzi/view?usp=drive_link
+
